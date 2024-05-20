@@ -11,7 +11,7 @@ Las soluciones fueron desarrolladas en [Python](https://docs.python.org/3/) vers
 #### Clonar el repositorio
 
 ```
-git clone url-enlace-al-repositorio
+git clone https://github.com/jpvcodec/PanelProblem.git
 ```
 
 ## Probar las soluciones
